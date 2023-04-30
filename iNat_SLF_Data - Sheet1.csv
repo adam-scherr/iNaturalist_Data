@@ -1,4 +1,4 @@
-state,official_date,inat_date,Source,inat_users_2022,population_2022,census source
+state,official_date,inat_date,source,inat_users_2022,population_2022,census_source
 PA,2014-09,2016-08-06,https://www.aphis.usda.gov/aphis/resources/pests-diseases/hungry-pests/the-threat/spotted-lanternfly/spotted-lanternfly,25618,"12,972,008",https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html#v2022
 NJ,2018-07,2018-07-18,https://www.nj.gov/agriculture/news/press/2018/approved/press180717.html,13348,"9,261,699",
 DE,2017-11,2019-07-15,https://www.agriculture.pa.gov/Plants_Land_Water/PlantIndustry/Entomology/spotted_lanternfly/research/Documents/SLF%20TWG%20Report%20020718%20final.pdf,3175,"1,018,396",
